@@ -9,10 +9,12 @@ string2 = "branch2인 text/explain 실험"
 print(string2, "왜 안될까....")
 
 a = 10; b = 2
-c = a+b+3
-print(c)
+c = a+b+3; d = 5
+print(c+d)
 
 total = 0
 for i in range(5):
     total += i
     print(total)
+    
+print("feature/practice 브랜치 머지 후 삭제 후 해당 브랜치 작업 부분 다시 불러와서 새로운 브랜치 생성 후 커밋하기")
