@@ -1,0 +1,1 @@
+print("260420 git & python 일대기 시작")
